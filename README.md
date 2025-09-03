@@ -49,9 +49,9 @@ python -m streamlit run app.py
 
 ## Output
 
-• Ranked table of drivers with win probabilities.
+• Ranked table of drivers with win probabilities
 
-• Weather details used (forecast or fallback).
+• Weather details used (forecast or fallback)
 
 • Learned tyre strategy priors (compound distribution, pit stops, stint lengths)
 
