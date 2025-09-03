@@ -5,7 +5,7 @@ It trains on multiple past seasons, integrates **automatic weather forecasts** (
 
 ---
 
-##Features
+## Features
 - Multi-season training across past F1 seasons
 - Automatic weather integration:
   - Forecast from Open-Meteo (geocoding + hourly)
